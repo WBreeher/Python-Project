@@ -1,0 +1,150 @@
+12-Month “God-Tier Entry-Level Dev” Roadmap
+Phase 0 – Prep (Weeks 0–2) CLEARED
+
+Goal: Set up environment and tools.
+
+Tasks:
+
+Install Python, VS Code (or PyCharm), and Git
+
+Set up GitHub account for portfolio
+
+Install Jupyter Notebook
+
+Outcome: Ready to start coding with version control set up.
+
+Phase 1 – Python Fundamentals (Weeks 3–10)
+
+Goal: Master core Python concepts.
+
+Topics:
+
+Variables, data types, loops, conditionals
+
+Functions, modules, classes/objects (OOP basics)
+
+Lists, dictionaries, sets, tuples
+
+File I/O and exception handling
+
+Practice:
+
+Small scripts: calculator, to-do list, text-based game
+
+Daily coding exercises (HackerRank, LeetCode easy)
+
+Outcome: Solid Python foundation.
+
+Phase 2 – Version Control & Git (Weeks 11–12)
+
+Goal: Professional code management.
+
+Tasks:
+
+Learn Git: clone, commit, push, pull, branches, merge
+
+Host all projects on GitHub with clear README
+
+Outcome: Portfolio looks professional; recruiters notice.
+
+Phase 3 – APIs & Integration Skills (Weeks 13–18)
+
+Goal: Connect Python programs to external services.
+
+Topics:
+
+REST APIs using requests
+
+JSON parsing and handling
+
+Automation scripts using APIs (weather, stock tracker, Twitter bot)
+
+Practice:
+
+Build at least 1 project using an API
+
+Document and upload to GitHub
+
+Outcome: Recruiter-ready real-world project.
+
+Phase 4 – Python Libraries for AI/ML (Weeks 19–28)
+
+Goal: Hands-on with core AI/ML libraries.
+
+Libraries:
+
+numpy, pandas → data handling
+
+matplotlib, seaborn → visualization
+
+scikit-learn → basic ML models
+
+Optional later: torch / tensorflow for neural networks
+
+Practice:
+
+Mini ML projects: linear regression, text classification, sentiment analysis
+
+Upload at least 2 projects to GitHub
+
+Outcome: Recruiters see applied AI/ML skills.
+
+Phase 5 – Build Small VI Prototype (Weeks 29–36)
+
+Goal: Combine skills into a mini VI (like Jarro).
+
+Tasks:
+
+Chatbot with NLP (transformers, nltk)
+
+Optional: TTS with pyttsx3 or ElevenLabs API
+
+Simple memory module (store previous conversations)
+
+Outcome: Working VI prototype for portfolio/demo.
+
+Phase 6 – Advanced Python/AI Concepts & Interview Prep (Weeks 37–44)
+
+Goal: Refine skills for interviews.
+
+Topics:
+
+Problem-solving with algorithms (LeetCode easy-medium)
+
+Modular OOP design, clean code practices
+
+Package projects and write unit tests
+
+Practice:
+
+Mock interviews
+
+Explain your projects clearly and confidently
+
+Outcome: Ready to ace junior dev interviews.
+
+Phase 7 – Portfolio & Networking Push (Weeks 45–52)
+
+Goal: Land interviews and stand out.
+
+Tasks:
+
+GitHub: 4–5 polished projects (chatbot, API integration, ML mini-projects)
+
+LinkedIn: weekly progress posts, highlight projects
+
+Apply to 5–10 jobs/week, tailoring resume + cover letter
+
+Network in dev communities (Reddit, Discord, Twitter)
+
+Outcome: Recruiters notice your portfolio; first offers start coming in.
+
+Expected Results After 12 Months
+
+Portfolio: 4–5 solid projects demonstrating Python + AI/ML + API/integration
+
+Skills: Confident coding, basic ML models, API integration, mini VI prototype
+
+Interview Readiness: Able to handle junior Python/AI developer interviews
+
+Rejection Rate: Minimized due to tangible projects, polished portfolio, and professional presentation
